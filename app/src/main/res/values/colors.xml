@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Color for the appbar and other UI elements -->
+    <color name="colorPrimary">#00BFA5</color>
+
+    <!-- Darker version of  primary color -->
+    <color name="colorPrimaryDark">#0B9884</color>
+
+    <!-- Secondary color for controls like check boxes and text fields -->
+    <color name="colorAccent">#FF4081</color>
+</resources>
